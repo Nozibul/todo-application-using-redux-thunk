@@ -1,0 +1,38 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Learn Vanilla JavaScript form w3 School",
+      "completed": true,
+      "color": "yellow"
+    },
+    {
+      "id": 2,
+      "text": "Learn Modern ES6+ JavaScript",
+      "completed": true,
+      "color": "green"
+    },
+    {
+      "id": 3,
+      "text": "Learn React JS",
+      "completed": false,
+      "color": "yellow"
+    },
+    {
+      "text": "Learn Redux Basics",
+      "completed": false,
+      "id": 4,
+      "color": "red"
+    },
+    {
+      "text": "learn golang",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "text": "learn Express",
+      "completed": true,
+      "id": 8
+    }
+  ]
+}
